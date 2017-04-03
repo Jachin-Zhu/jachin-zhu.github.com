@@ -4,9 +4,9 @@
   <subtitle>To the Moon.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://jachin-zhu.github.io/"/>
   <updated>2017-04-03T13:59:33.925Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://jachin-zhu.github.io/</id>
   
   <author>
     <name>Jachin Zhu</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="http://yoursite.com/2017/04/03/first/"/>
-    <id>http://yoursite.com/2017/04/03/first/</id>
+    <link href="http://jachin-zhu.github.io/2017/04/03/first/"/>
+    <id>http://jachin-zhu.github.io/2017/04/03/first/</id>
     <published>2017-04-03T09:39:36.376Z</published>
     <updated>2017-04-03T13:59:33.925Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="life" scheme="http://yoursite.com/categories/life/"/>
+      <category term="life" scheme="http://jachin-zhu.github.io/categories/life/"/>
     
     
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+      <category term="blog" scheme="http://jachin-zhu.github.io/tags/blog/"/>
     
   </entry>
   
