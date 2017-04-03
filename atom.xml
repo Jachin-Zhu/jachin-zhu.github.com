@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-03T10:05:41.721Z</updated>
+  <updated>2017-04-03T09:52:26.189Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,33 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello Hexo！</title>
-    <link href="http://yoursite.com/2017/04/03/new/"/>
-    <id>http://yoursite.com/2017/04/03/new/</id>
-    <published>2017-04-03T10:05:41.717Z</published>
-    <updated>2017-04-03T10:05:41.721Z</updated>
-    
-    <content type="html"><![CDATA[<p>摘要部分</p>
-<h2 id=""><a href="#" class="headerlink" title=""></a><a id="more"></a></h2><p>正文部分</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;摘要部分&lt;/p&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
-    
-    </summary>
-    
-      <category term="misc" scheme="http://yoursite.com/categories/misc/"/>
-    
-    
-      <category term="tag1" scheme="http://yoursite.com/tags/tag1/"/>
-    
-      <category term="tag2" scheme="http://yoursite.com/tags/tag2/"/>
-    
-  </entry>
   
   <entry>
     <title>第一篇博客</title>
