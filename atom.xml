@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jachin-zhu.github.io/"/>
-  <updated>2017-04-03T13:59:33.925Z</updated>
+  <updated>2017-04-13T13:53:02.615Z</updated>
   <id>http://jachin-zhu.github.io/</id>
   
   <author>
@@ -16,21 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇博客</title>
+    <title>如何学C++</title>
+    <link href="http://jachin-zhu.github.io/2017/04/13/how-to-learn-cpp/"/>
+    <id>http://jachin-zhu.github.io/2017/04/13/how-to-learn-cpp/</id>
+    <published>2017-04-13T13:30:01.595Z</published>
+    <updated>2017-04-13T13:53:02.615Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>正在施工。。。<br><a id="more"></a></p>
+</blockquote>
+<hr>
+<h1 id="从开发环境开始"><a href="#从开发环境开始" class="headerlink" title="从开发环境开始"></a>从开发环境开始</h1><p>学编程自然是离不开练习的，且对于C++这种语言特性十分繁多的语言，最好的方法就是通过大量的代码练习来自然地掌握最常用的语法。所以就先从开发环境开始吧。</p>
+<h2 id="Dev-C"><a href="#Dev-C" class="headerlink" title="Dev-C++"></a>Dev-C++</h2><p>Dev-C++十分简洁，轻量，对于练习简单的编程来说十分方便，也很容易上手。<br><a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank" rel="external"><strong>下载地址</strong></a></p>
+<h2 id="看最好的书"><a href="#看最好的书" class="headerlink" title="看最好的书"></a>看最好的书</h2><p><strong>C++ Primer Plus</strong><br>新手入门绝赞。</p>
+<p><strong>C++ Primer</strong><br>十分细致到位，但有些难度。</p>
+<p>顺序看这两本书。OK！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;正在施工。。。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="guide" scheme="http://jachin-zhu.github.io/categories/guide/"/>
+    
+    
+      <category term="cpp" scheme="http://jachin-zhu.github.io/tags/cpp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博文</title>
     <link href="http://jachin-zhu.github.io/2017/04/03/first/"/>
     <id>http://jachin-zhu.github.io/2017/04/03/first/</id>
     <published>2017-04-03T09:39:36.376Z</published>
-    <updated>2017-04-03T13:59:33.925Z</updated>
+    <updated>2017-04-04T07:12:38.650Z</updated>
     
-    <content type="html"><![CDATA[<p>新开了一个博客！！</p>
-<h2 id=""><a href="#" class="headerlink" title=""></a><a id="more"></a></h2><p>先试一试<br>$$<br>\theta_i = \theta_i - \alpha\frac\partial{\partial\theta_i}J(\theta)<br>$$<br><code>\theta_i = \theta_i - \alpha\frac\partial{\partial\theta_i}J(\theta)</code></p>
+    <content type="html"><![CDATA[<blockquote>
+<p>新开了一个博客！！<br><a id="more"></a></p>
+</blockquote>
+<hr>
+<p>先试一试<br>$$<br>\theta_i = \theta_i - \alpha\frac\partial{\partial\theta_i}J(\theta)<br>$$<br><code>\theta_i = \theta_i - \alpha\frac\partial{\partial\theta_i}J(\theta)</code></p>
 <p>什么蛤<br>$h(x) = \theta_0 + \theta_1 x$<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$h(x) = \theta_0 + \theta_1 x$</div><div class="line">\theta_i = \theta_i - \alpha\frac\partial&#123;\partial\theta_i&#125;J(\theta)</div></pre></td></tr></table></figure></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;新开了一个博客！！&lt;/p&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;新开了一个博客！！&lt;br&gt;
     
     </summary>
     
